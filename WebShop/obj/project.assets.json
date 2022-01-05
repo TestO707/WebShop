@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Studio54\\source\\repos\\WebShop\\WebShop\\WebShop.csproj",
+      "projectUniqueName": "C:\\Users\\Studio54\\Source\\Repos\\WebShop22\\WebShop\\WebShop.csproj",
       "projectName": "WebShop",
-      "projectPath": "C:\\Users\\Studio54\\source\\repos\\WebShop\\WebShop\\WebShop.csproj",
+      "projectPath": "C:\\Users\\Studio54\\Source\\Repos\\WebShop22\\WebShop\\WebShop.csproj",
       "packagesPath": "C:\\Users\\Studio54\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Studio54\\source\\repos\\WebShop\\WebShop\\obj\\",
+      "outputPath": "C:\\Users\\Studio54\\Source\\Repos\\WebShop22\\WebShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Studio54\\AppData\\Roaming\\NuGet\\NuGet.Config",
